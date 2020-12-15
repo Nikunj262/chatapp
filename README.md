@@ -7,7 +7,7 @@ Django Requirements: 3.0.8 Or Greater;
 Git Requirements: 2.26.2 Or Greater;
 
 How-To: Run This
-First In Your Command Line, In The Desired Location git clone wait for it download
+First In Your Command Line, In The Desired Location git clone https://github.com/Nikunj262/chatapp wait for it download
 
 Navigate Where The File Was Downloaded Open Up The Folder. Then In You Command Line- python manage.py migrate
 
